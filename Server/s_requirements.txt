@@ -1,0 +1,6 @@
+bcrypt
+pymongo
+pycryptodome
+python-dotenv
+groq
+langchain-groq
